@@ -643,6 +643,8 @@ https://epg.pw/stream/c00127d805e82b76c7aadbc58c94e6c08d7e35f9fd07df19c055971733
 https://epg.pw/stream/bf8b2ee2054e29c905611d47c54f2b15e6de0b5e865fed02b8cef5876e1bf99c.m3u8
 
 #国际频道
+#EXTINF:-1  group-title="国际频道",Discovery
+https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="N02" tvg-name="News 12 New York" tvg-logo="https://huangsuming.codeberg.page/logo/tv/English/" group-title="国际频道",News 12 New York
 https://lnc-news12.tubi.video/index.m3u8
 #EXTINF:-1 group-title="国际频道",CNN
